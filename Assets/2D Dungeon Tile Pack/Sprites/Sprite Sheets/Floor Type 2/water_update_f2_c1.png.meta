@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: a0f4eb9ed5c84de4a8b73765fcceea58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -45729239444133199
+    second: floor_base-1
+  - first:
+      213: 9022473743200007973
+    second: floor_base-2
+  - first:
+      213: -2032661727084459717
+    second: floor_base-3
+  - first:
+      213: 6409580888882471905
+    second: floor_hole-1
+  - first:
+      213: -7313619742545075046
+    second: floor_hole-2
+  - first:
+      213: 6970930143476072215
+    second: floor_hole-3
+  - first:
+      213: 3993399879134766931
+    second: floor_hole-4
+  - first:
+      213: -1472692209614395816
+    second: floor_hole-5
+  - first:
+      213: -2044937460429461003
+    second: floor_hole-6
+  - first:
+      213: -5719588842141924879
+    second: floor_hole-7
+  - first:
+      213: -3579296926641972298
+    second: floor_hole-8
+  - first:
+      213: 7538873629782328262
+    second: floor_hole-9
+  - first:
+      213: 3208838536418422355
+    second: floor_hole-10
+  - first:
+      213: -4624195478584600623
+    second: floor_hole-11
+  - first:
+      213: 683203987467421592
+    second: floor_hole-12
+  - first:
+      213: 8795956576464515432
+    second: floor_hole-13
+  - first:
+      213: 4593134005540665041
+    second: floor_hole-14
+  - first:
+      213: 8219058291983937318
+    second: floor_hole-15
+  - first:
+      213: -3802197233986307987
+    second: floor_hole-16
+  - first:
+      213: 6460885660117691736
+    second: floor_hole-17
+  - first:
+      213: 1691995732859629495
+    second: floor_hole-18
+  - first:
+      213: -1818031017867088929
+    second: floor_hole-19
+  - first:
+      213: -6148176915632337577
+    second: floor_water -1
+  - first:
+      213: 359567300677103454
+    second: floor_water -2
+  - first:
+      213: -7143364248384168801
+    second: floor_water -3
+  - first:
+      213: -2249672349787710539
+    second: floor_water -4
+  - first:
+      213: 835585051089753267
+    second: floor_water -5
+  - first:
+      213: -1953817167423323131
+    second: floor_water -6
+  - first:
+      213: -4306399583122704153
+    second: floor_water -7
+  - first:
+      213: 1312011237537748327
+    second: floor_water -8
+  - first:
+      213: 6742416495342433514
+    second: floor_water -9
+  - first:
+      213: 3636894688165985285
+    second: floor_water -10
+  - first:
+      213: 1664909600218774912
+    second: floor_water -11
+  - first:
+      213: 1012753292487276604
+    second: floor_water -12
+  - first:
+      213: 3874956073948141853
+    second: floor_water -13
+  - first:
+      213: 2103352872635990069
+    second: floor_water -14
+  - first:
+      213: 1217984429301764189
+    second: floor_water -15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floor_base-1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1791
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba651fbf798d5ff0800000000000000
+      internalID: -45729239444133199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_base-2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1533
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527b9baf014463d70800000000000000
+      internalID: 9022473743200007973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_base-3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1275
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b394990cde88ac3e0800000000000000
+      internalID: -2032661727084459717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3e8f8ebd763f850800000000000000
+      internalID: 6409580888882471905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1275
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a942157e79dc08a90800000000000000
+      internalID: -7313619742545075046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f34fb2808bdb060800000000000000
+      internalID: 6970930143476072215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 759
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3576ae938086b6730800000000000000
+      internalID: 3993399879134766931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 501
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856e27eec32ff8be0800000000000000
+      internalID: -1472692209614395816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-6
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 243
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9663bd63cee93e0800000000000000
+      internalID: -2044937460429461003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-7
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1533
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1c7d27040ff90b0800000000000000
+      internalID: -5719588842141924879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-8
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1533
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb9bddb868c35ec0800000000000000
+      internalID: -3579296926641972298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-9
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1533
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c34cb5af957f9860800000000000000
+      internalID: 7538873629782328262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 759
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eedc0d5a5188c20800000000000000
+      internalID: 3208838536418422355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 501
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d75ff656be83dfb0800000000000000
+      internalID: -4624195478584600623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 243
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8974026286a3b7900800000000000000
+      internalID: 683203987467421592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1791
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861bdef37e3811a70800000000000000
+      internalID: 8795956576464515432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-14
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1791
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6b406ea071ebf30800000000000000
+      internalID: 4593134005540665041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-15
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1791
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f6ee958f5ff0270800000000000000
+      internalID: 8219058291983937318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-16
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1791
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68f546b2c1eb3bc0800000000000000
+      internalID: -3802197233986307987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-17
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1791
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85deab1d64da9a950800000000000000
+      internalID: 6460885660117691736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-18
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1791
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf239a872d2b7710800000000000000
+      internalID: 1691995732859629495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_hole-19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1533
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbe36deb6e05c6e0800000000000000
+      internalID: -1818031017867088929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -1
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1533
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d4a7f6ba94daaa0800000000000000
+      internalID: -6148176915632337577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -2
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1275
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f64bd0e807df400800000000000000
+      internalID: 359567300677103454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -3
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1275
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c16d1301caddc90800000000000000
+      internalID: -7143364248384168801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -4
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1275
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb92e9caee87c0e0800000000000000
+      internalID: -2249672349787710539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -5
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1275
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4d4d54d28989b00800000000000000
+      internalID: 835585051089753267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -6
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5044ca353a5a2e4e0800000000000000
+      internalID: -1953817167423323131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -7
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 759
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8b41b35689c34c0800000000000000
+      internalID: -4306399583122704153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -8
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 501
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76512cae443353210800000000000000
+      internalID: 1312011237537748327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -9
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 243
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4be946410e19d50800000000000000
+      internalID: 6742416495342433514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -10
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1533
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c73a52378d87230800000000000000
+      internalID: 3636894688165985285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1275
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d7d28d572fa1710800000000000000
+      internalID: 1664909600218774912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1017
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38bfc3f0c50e0e00800000000000000
+      internalID: 1012753292487276604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -13
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 759
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19dbe3d40c96c530800000000000000
+      internalID: 3874956073948141853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -14
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 501
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53004ca2b4c903d10800000000000000
+      internalID: 2103352872635990069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_water -15
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 243
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d501d72a26627e010800000000000000
+      internalID: 1217984429301764189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
